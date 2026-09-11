@@ -1,6 +1,4 @@
-<p align="center">
-  # 🚀 ANTARES
-</p>
+<h1 align="center">ANTARES</h1>
 <p align="center">
   <strong>Gestión empresarial sencilla para autónomos y pequeñas empresas.</strong>
 </p>
