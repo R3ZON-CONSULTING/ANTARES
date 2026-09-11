@@ -1,0 +1,99 @@
+ANTARES SOFTWARE LICENSE
+
+Copyright © 2026 R3ZON CONSULTING SL. All rights reserved.
+
+1. OWNERSHIP
+
+Antares, including its software, binaries, installers, applications, graphical interfaces, documentation, trademarks, logos, designs, and other associated materials, is proprietary software owned by R3ZON CONSULTING SL ("R3ZON").
+
+This repository may be publicly accessible, but public availability of the repository does not mean that Antares is open-source software or that any ownership rights are transferred to the user.
+
+2. LIMITED LICENSE
+
+Subject to the terms of this license, R3ZON grants the user a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+* Download Antares from an official R3ZON distribution channel.
+* Install Antares on compatible devices.
+* Use Antares for its intended purpose.
+
+No other rights are granted unless expressly authorized in writing by R3ZON.
+
+3. RESTRICTIONS
+
+Except where expressly permitted by applicable law or with prior written authorization from R3ZON, the user may not:
+
+* Copy, reproduce, or redistribute Antares or any part of it.
+* Publish, mirror, host, or make Antares available for download through third-party distribution channels.
+* Modify, adapt, translate, or create derivative works based on Antares.
+* Decompile, disassemble, reverse engineer, or otherwise attempt to obtain the source code of Antares.
+* Circumvent, disable, or interfere with technical protection, authentication, licensing, or security mechanisms.
+* Incorporate Antares or any part of it into another software product or service.
+* Sell, rent, lease, sublicense, assign, or otherwise commercially distribute Antares or copies of it.
+* Use Antares to develop or provide a competing product or service.
+* Remove, alter, or obscure copyright notices, trademarks, branding, or other proprietary notices.
+* Use the Antares name, logo, branding, or other R3ZON intellectual property in a manner that suggests an affiliation, endorsement, or authorization that does not exist.
+
+4. SOURCE CODE
+
+This repository is intended for the distribution of official Antares releases and does not grant access to the proprietary source code of Antares.
+
+Any source code that may be visible in this repository, if applicable, remains subject to this license unless a specific file or component is accompanied by a different license.
+
+5. THIRD-PARTY COMPONENTS
+
+Antares may include or depend upon software, libraries, frameworks, fonts, assets, or other components developed by third parties.
+
+Such components may be subject to their own licenses and terms. Those licenses remain applicable to the corresponding third-party components.
+
+Nothing in this license is intended to restrict rights that the user may independently have under applicable third-party licenses.
+
+6. TRADEMARKS
+
+"Antares", the Antares name, logo, visual identity, and related marks are trademarks or protected identifiers of R3ZON CONSULTING SL, where applicable.
+
+This license does not grant any right to use R3ZON or Antares trademarks without prior written authorization.
+
+7. UPDATES AND DISTRIBUTION
+
+R3ZON may publish new versions of Antares through this repository or other official distribution channels.
+
+R3ZON is not obligated to maintain any particular version, feature, platform, compatibility level, or distribution channel indefinitely.
+
+8. TERMINATION
+
+This license is automatically terminated if the user materially breaches its terms.
+
+Upon termination, the user must cease using Antares and, where applicable, delete copies of the software that are no longer authorized for use.
+
+Termination does not affect any rights or remedies that R3ZON may have under applicable law.
+
+9. DISCLAIMER OF WARRANTY
+
+To the maximum extent permitted by applicable law, Antares is provided "as is" and "as available", without warranties of any kind, whether express or implied.
+
+R3ZON does not warrant that Antares will be uninterrupted, error-free, secure, or compatible with every device or environment.
+
+10. LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, R3ZON CONSULTING SL shall not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages arising from or related to the use of, or inability to use, Antares.
+
+Nothing in this license excludes or limits liability that cannot legally be excluded or limited under applicable law.
+
+11. APPLICABLE LAW
+
+This license shall be governed by and interpreted in accordance with the laws applicable to R3ZON CONSULTING SL, without prejudice to any mandatory rights or protections granted to consumers or other users under applicable law.
+
+12. ENTIRE LICENSE
+
+This license constitutes the terms governing the use of the Antares software distributed through this repository, except where a separate written agreement with R3ZON expressly provides otherwise.
+
+No rights are granted by implication, estoppel, or otherwise beyond those expressly stated in this license.
+
+13. CONTACT
+
+For licensing permissions, commercial redistribution requests, or other inquiries regarding Antares, please contact R3ZON CONSULTING SL through its official communication channels.
+
+---
+
+R3ZON CONSULTING SL
+Copyright © 2026 R3ZON CONSULTING SL. All rights reserved.
